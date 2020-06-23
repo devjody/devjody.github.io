@@ -1,2 +1,2 @@
-## devjody.github.io
-JodyB - Web &amp; Software Development Student
+       Repo for Jody B aka devjody - Have a great day!
+![](dj-icon.png)
